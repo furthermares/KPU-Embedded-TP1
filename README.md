@@ -1,2 +1,2 @@
 # KPU-Embedded-TP1
-![README: report.pdf](/report.pdf)
+[README](report.pdf)
