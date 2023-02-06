@@ -1,2 +1,4 @@
-# KPU-Embedded-TP1
-[README](report.pdf)
+### [Embedded Programming] (211127)
+- Team Project with Achro-EM
+
+### [README](report.pdf)
