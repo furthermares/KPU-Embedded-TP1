@@ -1,4 +1,4 @@
 ### [Embedded Programming] (211127)
-- Team Project with Achro-EM
+- Achro-EM Team Project
 
 ### [Presentation](report.pdf)
